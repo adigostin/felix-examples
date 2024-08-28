@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D438161C-F032-4014-BC5C-20A80EAFF59B}") = "SpriteTearing.flx", "SpriteTearing.flx", "{75AA478A-6E7F-478E-A570-BA6CFE1C742D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ZX Spectrum 48K = Debug|ZX Spectrum 48K
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75AA478A-6E7F-478E-A570-BA6CFE1C742D}.Debug|ZX Spectrum 48K.ActiveCfg = Debug|ZX Spectrum 48K
+		{75AA478A-6E7F-478E-A570-BA6CFE1C742D}.Debug|ZX Spectrum 48K.Build.0 = Debug|ZX Spectrum 48K
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C893497-BB0A-4D6F-BB02-FDFFD1D4AA58}
+	EndGlobalSection
+EndGlobal

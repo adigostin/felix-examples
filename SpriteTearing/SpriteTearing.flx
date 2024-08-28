@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Z80Project Guid="{75AA478A-6E7F-478E-A570-BA6CFE1C742D}">
+  <Configurations>
+    <Configuration ConfigName="Debug" PlatformName="ZX Spectrum 48K">
+      <GeneralProperties SaveListing="True" SaveListingFilename="bin/Debug/output.lst" />
+    </Configuration>
+  </Configurations>
+  <Items>
+    <AsmFile Path="Start.asm" />
+  </Items>
+</Z80Project>m" />
+    <AsmFile Path="face.asm" />
+  </Items>
+</Z80Project>>
