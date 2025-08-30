@@ -1,7 +1,7 @@
 
 	device ZXSPECTRUM48
 
-	org 8000h
+	EI
 	jr loop
 
 pattern:db 1

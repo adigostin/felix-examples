@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Z80Project Guid="{75AA478A-6E7F-478E-A570-BA6CFE1C742D}">
   <Configurations>
-    <Configuration ConfigName="Debug" PlatformName="ZX Spectrum 48K">
-      <GeneralProperties SaveListing="True" SaveListingFilename="bin/Debug/output.lst" />
-    </Configuration>
+    <Configuration ConfigName="Debug" PlatformName="ZX Spectrum 48K" />
   </Configurations>
   <Items>
-    <AsmFile Path="Start.asm" />
+    <Folder Name="GeneratedFiles">
+      <Items>
+        <File Path="PostInclude.asm" IsGenerated="1" BuildTool="Assembler" />
+        <File Path="PreInclude.asm" IsGenerated="1" BuildTool="Assembler" />
+      </Items>
+    </Folder>
+    <File Path="Start.asm" BuildTool="Assembler" />
   </Items>
-</Z80Project>m" />
-    <AsmFile Path="face.asm" />
-  </Items>
-</Z80Project>>
+</Z80Project>
